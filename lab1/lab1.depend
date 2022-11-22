@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668600927 source:d:\ace\oop\lab1\main.cpp
+	<iostream>
+	"a.h"
+
+1668600794 d:\ace\oop\lab1\a.h
+
+1668601618 source:d:\ace\oop\lab1\a.cpp
+	<iostream>
+
